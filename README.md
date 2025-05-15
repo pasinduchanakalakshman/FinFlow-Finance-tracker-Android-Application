@@ -64,13 +64,12 @@ A modern Android application built with Kotlin to help users manage their person
 ![Screen11](https://github.com/user-attachments/assets/65ccbdbd-e7a3-4cf0-a046-0685ada4e7af)
 
 
-
-
-
-
 ##  Acknowledgments
 
-* Material Design for the UI components
-* MPAndroidChart for the charting library
-* AndroidX team for the core components
+Special thanks to the following tools and libraries:
+
+- [Material Design](https://m3.material.io/) – UI components and guidelines  
+- [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) – Charting library  
+- [AndroidX](https://developer.android.com/jetpack/androidx) – Core Jetpack components
+
 
